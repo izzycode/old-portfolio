@@ -119,6 +119,8 @@ body {
   margin: -510px 0 0 21.73047%;
   font-size: 2.5em;
   color: rgb(254, 254, 254);
+  background-color: rgba(56,56,251,.5);
+  padding: .2em
 }
 
 .text-11 {
@@ -250,6 +252,16 @@ body {
   overflow: hidden;
 }
 
+
+
+img {
+  position:relative;
+  max-width: 90%;
+  left: 5%;
+}
+
+
+
 @media(max-width: 1080px) {
   .container {
     position: absolute;
@@ -339,7 +351,7 @@ body {
   .text-10 {
     clear: none;
     top: 1095px;
-    left: 3.7934027777%;
+    left: 3%;
     font-size: 1.875em;
   }
 
