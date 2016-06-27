@@ -48,7 +48,6 @@ body {
   background-repeat: repeat-y;
   background-size: 319px 389.5px;
   background-position: 18% -231%;
-  overflow:scroll;
 }
 
 .container-3 {
@@ -252,7 +251,7 @@ body {
   font-size: 1.438em;
   line-height: 1.08;
   color: rgb(255, 255, 255);
-  overflow: hidden;
+  overflow: auto;
 }
 
 
