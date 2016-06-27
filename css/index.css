@@ -48,6 +48,7 @@ body {
   background-repeat: repeat-y;
   background-size: 319px 389.5px;
   background-position: 18% -231%;
+  overflow:scroll;
 }
 
 .container-3 {
