@@ -251,7 +251,7 @@ body {
   font-size: 1.438em;
   line-height: 1.08;
   color: rgb(255, 255, 255);
-  overflow: auto;
+  overflow: scroll;
 }
 
 
